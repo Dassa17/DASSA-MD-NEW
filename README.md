@@ -32,9 +32,9 @@
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-<a href="https://dassa-md-pair-site-i5fm.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://dassamd-pairing.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://dassa-md-pair-site-i5fm.onrender.com/"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get PAIR-CODE-02" width="90"></a> 
+<a href="https://dassamd-pairing.onrender.com/"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get PAIR-CODE-02" width="90"></a> 
 
 ## How To Deploy On Github.
 * [![TELEGRAM](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/ai_bot_md/213)
